@@ -1,0 +1,5 @@
+git add . 	; to add all changes in all files in the current directory
+
+git commit -m "write your comment about the change"  
+
+git push origin main  ; push the changes to your main github origin on the internet simply
